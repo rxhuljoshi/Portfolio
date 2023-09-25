@@ -167,14 +167,6 @@ header .info-text .scroll::before {
   margin-bottom: 20px;
 }
 
-#features .card .info a {
-  font-size: 1.7rem;
-  font-weight: bold;
-  font-family: "Oswald", sans-serif;
-  color: #fff;
-  margin-bottom: 20px;
-}
-
 #about .card .info p,
 #features .card .info p {
   font-size: 1.1rem;
